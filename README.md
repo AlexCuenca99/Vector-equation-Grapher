@@ -11,3 +11,5 @@
 1. In this project you will find some classes and methods in order to graph a lot of vector stuff. For example, you can graph lines, circles, and polynomial functions.
 2. You can animate waves, interferences and 3D waves.
 
+
+#### By Alex C., Francisco L.
